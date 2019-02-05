@@ -1,0 +1,25 @@
+{
+  "name": "share-queue-engine",
+  "version": "1.0.0",
+  "description": "Runs OptimalBits/bull",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-parekh/share-queue-engine.git"
+  },
+  "keywords": [
+    "bull"
+  ],
+  "author": "h-parekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-parekh/share-queue-engine/issues"
+  },
+  "homepage": "https://github.com/h-parekh/share-queue-engine#readme",
+  "engines": {
+    "node": "10.*.*"
+  },
+  "dependencies": {
+    "bull": "^3.6.0"
+  }
+}
